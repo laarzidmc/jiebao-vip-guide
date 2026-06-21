@@ -1,2 +1,14 @@
 # jiebao-vip-guide
-HTML page archive and documentation
+
+独立页面发布说明
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
